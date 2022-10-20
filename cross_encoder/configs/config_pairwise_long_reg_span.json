@@ -30,7 +30,7 @@
   "neg_samp": true,
   "threshold": 0.6,
   "linkage_type": "average",
-  "cdlm_path": "./cdlm",
+  "cdlm_path": "biu-nlp/cdlm",
   "log_path": "logs/pairwise_scorer/",
   "data_folder": "data/ecb/mentions",
   "span_repr_path": "models/span_scorers_longformer_reg_method3_full_span_entities/event_span_repr_0",
